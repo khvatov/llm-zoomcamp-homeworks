@@ -8,3 +8,6 @@ __pycache__
 *.db-wal
 .DS_Store
 models/
+kestra/
+API Keys
+scratchpad
